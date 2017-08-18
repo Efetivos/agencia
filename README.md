@@ -5,34 +5,17 @@
 <p>
 Aqui você deixa de contratar uma empresa que presta serviços, para contratar uma Parceira que vai em busca das soluções com você. Nosso foco é entender o que você precisa e trazer o resultado desejado, seja ele: Vender mais, ter mais visibilidade ou aumentar o número dos seus clientes.
 Ser EFETIVO é fazer AGORA e fazer correto.
-Conte com a gente!</p>
+Conte com a gente!<br><br></p>
 
-> A Vue.js project
+> Principais links:
+<ul>
+    <li>[Efetivos.com.br](http://efetivos.com.br)</li>
+</ul>
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run devgit 
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
