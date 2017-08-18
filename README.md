@@ -9,7 +9,7 @@ Conte com a gente!<br><br></p>
 
 > Principais links:
 <ul>
-    <li>[Efetivos.com.br](http://efetivos.com.br)</li>
+    <li>Efetivos.com.br | (http://efetivos.com.br)</li>
 </ul>
 
 
