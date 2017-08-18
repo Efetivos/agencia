@@ -59,19 +59,17 @@ Conte com a gente!<br><br></p>
 ### Websites:
 > Sites em desenvolvimento:
 <ul>
-    <li><a href="http://rodrigomarconatto.com">Rodrigo Marconatto</a></li>
-    <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
-    <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
-    <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
+    <li><a href="http://rlassessoria.com">RL Assessoria</a></li>
+    <li><a href="http://emsproducoes.com.br">EMS Produções</a></li>
+    <li><a href="http://prospero.tv.br">Prospero Filmes</a></li>
+    <li><a href="http://poliscanbrasil.com.br">Poliscan Brasil</a></li>
+    <li><a href="http://revistawowpet.com.br">Revista Wow Pet</a></li>
+    <li><a href="http://spfashionschool.com">SP Fashion School</a></li>
 </ul>
 
 ### Videos:
 > Videos | Motion Graphics:
 <ul>
     <li><a href="https://vimeo.com/205371055">Apresentação Efetivos</a></li>
-    <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
-    <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
-    <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
-    <li><a href="http://laasamantha.com">Larissa Samantha </a></li>
-
 <br><br>
+</ul>
