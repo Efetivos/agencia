@@ -38,7 +38,7 @@ Conte com a gente!<br><br></p>
 ### Websites:
 > Sites desenvolvidos:
 <ul>
-    <li><a href="http://rodrigomarconatto.com">Rodrigo Marconatto</a></li>
+    <li><a href="http://rodrigomarconatto.com" target="_blank">Rodrigo Marconatto</a></li>
     <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
     <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
     <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
@@ -53,4 +53,25 @@ Conte com a gente!<br><br></p>
     <li><a href="http://www.casadolago.preac.unicamp.br/">Casa do Lago | Unicamp</a></li>
     <li><a href="http://vibedancers.com.br">Vibe Dancers </a></li>
     <li><a href="http://diegocelulares.com.br">Diego Celulares </a></li>
+<br><br>
+</ul>
+
+### Websites:
+> Sites em desenvolvimento:
+<ul>
+    <li><a href="http://rodrigomarconatto.com">Rodrigo Marconatto</a></li>
+    <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
+    <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
+    <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
+</ul>
+
+### Videos:
+> Videos | Motion Graphics:
+<ul>
+    <li><a href="https://vimeo.com/205371055">Apresentação Efetivos</a></li>
+    <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
+    <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
+    <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
+    <li><a href="http://laasamantha.com">Larissa Samantha </a></li>
+
 <br><br>
