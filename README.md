@@ -19,6 +19,19 @@ Conte com a gente!<br><br></p>
     <li>E-mail Contato | contato@efetivos.com.br</li>
     <li>E-mail Criar | criar@efetivos.com.br</li>    
 </ul>
+> Sites | Temas
+<ul>
+    <li>Clinica | http://efetivos.com.br/clinica</li>
+    <li>Corporativo | http://efetivos.com.br/corporativo</li>
+    <li>Corporativo 2 | http://efetivos.com.br/corporativo2</li>
+    <li>Loja | http://efetivos.com.br/loja</li>
+    <li>Salão | http://efetivos.com.br/salao</li>
+    <li>Salão 2 | http://efetivos.com.br/salao2</li>
+    <li>Salão 3 | http://efetivos.com.br/salao3</li>
+    <li>Restaurante | http://efetivos.com.br/restaurante</li>
+    <li>Restaurante 2 | http://efetivos.com.br/restaurante2</li>
+    <li>Vitrine | http://efetivos.com.br/vitrine</li>
+</ul>
 <br><br>
 
 ### Websites:
@@ -33,11 +46,10 @@ Conte com a gente!<br><br></p>
     <li><a href="http://mcfabinho.com.br">Mc Fabinho </a></li>
     <li><a href="http://termografiaclinica.com.br">Termografia Clinica </a></li>
     <li><a href="http://robertarodriguesadvocacia.com.br">Roberta Rodrigues ADV</a></li>
-    <li><a href="http://manniadechocolate.com.br">Man'nia de Chocolate </a></li>
+    <li><a href="http://manniadechocolate.com">Man'nia de Chocolate </a></li>
     <li><a href="http://neuropace.com.br">Neuropace</a></li>
     <li><a href="http://innovet.com.br">Innovet </a></li>
     <li><a href="http://www.casadolago.preac.unicamp.br/">Casa do Lago | Unicamp</a></li>
     <li><a href="http://vibedancers.com.br">Vibe Dancers </a></li>
     <li><a href="http://diegocelulares.com.br">Diego Celulares </a></li>
-
 <br><br>
