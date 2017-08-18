@@ -12,6 +12,11 @@ Conte com a gente!<br><br></p>
     <li>Efetivos.com.br | (http://efetivos.com.br)</li>
     <li>Efetivos.com | (http://efetivos.com)</li>
     <li>Temas | (http://efetivos.com.br/temas)</li>
+    <li>Facebook | (https://www.facebook.com/efetivoscomunicacao)</li>
+    <li>Instagram | (https://instagram.com/efetivos)</li>
+    <li>Vimeo | (https://vimeo.com/efetivos)</li>
+    <li>Youtube | (https://www.youtube.com/channel/UCkLUnyJzWUnClV5AxVPEt6A)</li>
+    
 </ul>
 
 
