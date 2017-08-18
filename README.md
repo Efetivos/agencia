@@ -26,25 +26,18 @@ Conte com a gente!<br><br></p>
 <ul>
     <li><a href="http://rodrigomarconatto.com">Rodrigo Marconatto</a></li>
     <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
-    <li><a href="http://augustacerimonial.com">Augusta Cerimonial</a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
-    <li><a href="http://"> </a></li>
+    <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
+    <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
+    <li><a href="http://laasamantha.com">Larissa Samantha </a></li>
+    <li><a href="http://suellenayla.com.br">Suellen Ayla </a></li>
+    <li><a href="http://mcfabinho.com.br">Mc Fabinho </a></li>
+    <li><a href="http://termografiaclinica.com.br">Termografia Clinica </a></li>
+    <li><a href="http://robertarodriguesadvocacia.com.br">Roberta Rodrigues ADV</a></li>
+    <li><a href="http://manniadechocolate.com.br">Man'nia de Chocolate </a></li>
+    <li><a href="http://neuropace.com.br">Neuropace</a></li>
+    <li><a href="http://innovet.com.br">Innovet </a></li>
+    <li><a href="http://www.casadolago.preac.unicamp.br/">Casa do Lago | Unicamp</a></li>
+    <li><a href="http://vibedancers.com.br">Vibe Dancers </a></li>
+    <li><a href="http://diegocelulares.com.br">Diego Celulares </a></li>
 
 <br><br>
