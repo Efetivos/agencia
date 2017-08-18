@@ -1,4 +1,11 @@
-# vue_project
+# Efetivos Comunicação Visual:
+
+> Descrição
+
+<p>
+Aqui você deixa de contratar uma empresa que presta serviços, para contratar uma Parceira que vai em busca das soluções com você. Nosso foco é entender o que você precisa e trazer o resultado desejado, seja ele: Vender mais, ter mais visibilidade ou aumentar o número dos seus clientes.
+Ser EFETIVO é fazer AGORA e fazer correto.
+Conte com a gente!</p>
 
 > A Vue.js project
 
@@ -9,7 +16,7 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run devgit 
 
 # build for production with minification
 npm run build
@@ -66,7 +73,7 @@ module: {
 
 # IMPORTAR/INSERIR DENTRO DO COMPONENTE.VUE > Dentro da tag <script>
  ``` bash
-import { TweenMax, TimelineMax } from 'gsap'
+(import { TweenMax, TimelineMax } from 'gsap')
 import $ from 'jquery'
 import ScrollMagic from 'scrollmagic'
 import 'ScrollMagicGSAP'
