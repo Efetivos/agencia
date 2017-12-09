@@ -39,8 +39,13 @@ Conte com a gente!<br><br></p>
 > Sites desenvolvidos:
 <ul>
     <li><a href="http://rodrigomarconatto.com" target="_blank">Rodrigo Marconatto</a></li>
+    <li><a href="http://rlassessoria.com">RL Assessoria</a>RL Assessoria</li>    
+    <li><a href="http://nfs.art.br/">NFS Produções</a></li>    
+    <li><a href="http://prospero.tv.br">Prospero Filmes</a></li>    
+    <li><a href="http://spfashionschool.com">SP Fashion School</a></li>
     <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
     <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
+    <li><a href="http://revistawowpet.com.br">Revista Wow Pet</a></li>
     <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
     <li><a href="http://laasamantha.com">Larissa Samantha </a></li>
     <li><a href="http://suellenayla.com.br">Suellen Ayla </a></li>
@@ -59,12 +64,24 @@ Conte com a gente!<br><br></p>
 ### Websites:
 > Sites em desenvolvimento:
 <ul>
-    <li><a href="http://rlassessoria.com">RL Assessoria</a></li>
+    <li><a href="http://adoromkt.com.br/">Adoro MKT</a></li>
+    <li><a href="http://efe5.site/">Efe5 Site</a></li>
+    <li><a href="https://efe5-clothing.lojaintegrada.com.br/">Efe5 Ecommerce</a></li>
+    <li><a href="http://powerfulhair.com.br/">Powerful Hair</a></li>
+    <li><a href="http://nicolebahls.com.br/">Nicole Bahls</a></li>
+    <li><a href="http://scheilacarvalho.com.br/">Scheila Carvalho</a></li>
+    <li><a href="http://barbaraevansoficial.com.br/">Barbara Evans</a></li>
+</ul>
+
+### Websites:
+> Sites em Stand By:
+<ul>
     <li><a href="http://emsproducoes.com.br">EMS Produções</a></li>
-    <li><a href="http://prospero.tv.br">Prospero Filmes</a></li>
     <li><a href="http://poliscanbrasil.com.br">Poliscan Brasil</a></li>
-    <li><a href="http://revistawowpet.com.br">Revista Wow Pet</a></li>
-    <li><a href="http://spfashionschool.com">SP Fashion School</a></li>
+    <li><a href="http://isabelacrociolli.com/">Isabela Crociolli</a></li>
+    <li><a href="https://www.gustavonenao.com/">Gustavo Nenão</a></li>
+    <li><a href="seller">Seller Efetivos</a></li>
+    <li><a href="victorwork">Victor Work</a></li>
 </ul>
 
 ### Videos:
