@@ -39,7 +39,7 @@ Conte com a gente!<br><br></p>
 > Sites desenvolvidos:
 <ul>
     <li><a href="http://rodrigomarconatto.com" target="_blank">Rodrigo Marconatto</a></li>
-    <li><a href="http://rlassessoria.com">RL Assessoria</a>RL Assessoria</li>    
+    <li><a href="http://rlassessoria.com">RL Assessoria</a></li>    
     <li><a href="http://nfs.art.br/">NFS Produções</a></li>    
     <li><a href="http://prospero.tv.br">Prospero Filmes</a></li>    
     <li><a href="http://spfashionschool.com">SP Fashion School</a></li>
