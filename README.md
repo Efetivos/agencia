@@ -38,39 +38,45 @@ Conte com a gente!<br><br></p>
 ### Websites:
 > Sites desenvolvidos:
 <ul>
+    <li><a href="http://scheilacarvalho.com.br/">Scheila Carvalho</a></li>
     <li><a href="http://rodrigomarconatto.com" target="_blank">Rodrigo Marconatto</a></li>
     <li><a href="http://rlassessoria.com">RL Assessoria</a></li>    
-    <li><a href="http://nfs.art.br/">NFS Produções</a></li>    
+    <li><a href="http://nfs.art.br/">NFS Produções</a></li>
+    <li><a href="http://adoromkt.com.br/">Adoro MKT</a></li>
     <li><a href="http://prospero.tv.br">Prospero Filmes</a></li>    
     <li><a href="http://spfashionschool.com">SP Fashion School</a></li>
     <li><a href="http://barbeariablackbarba.com">Black Barba</a></li>
+    <li><a href="http://efe5.site/">Efe5 Site</a></li>    
+    <li><a href="https://efe5-clothing.lojaintegrada.com.br/">Efe5 Ecommerce</a></li>
     <li><a href="http://augustacerimonial.com.br">Augusta Cerimonial</a></li>
     <li><a href="http://revistawowpet.com.br">Revista Wow Pet</a></li>
     <li><a href="http://buffetoliveira.com.br">Oliveira Buffet</a></li>
     <li><a href="http://laasamantha.com">Larissa Samantha </a></li>
+    <li><a href="http://exactsolution.com.br">Exact Solution </a></li>
     <li><a href="http://suellenayla.com.br">Suellen Ayla </a></li>
     <li><a href="http://mcfabinho.com.br">Mc Fabinho </a></li>
     <li><a href="http://termografiaclinica.com.br">Termografia Clinica </a></li>
     <li><a href="http://robertarodriguesadvocacia.com.br">Roberta Rodrigues ADV</a></li>
     <li><a href="http://manniadechocolate.com">Man'nia de Chocolate </a></li>
     <li><a href="http://neuropace.com.br">Neuropace</a></li>
-    <li><a href="http://innovet.com.br">Innovet </a></li>
+    <li><a href="http://innovet.com.br">Innovet</a></li>
     <li><a href="http://www.casadolago.preac.unicamp.br/">Casa do Lago | Unicamp</a></li>
     <li><a href="http://vibedancers.com.br">Vibe Dancers </a></li>
     <li><a href="http://diegocelulares.com.br">Diego Celulares </a></li>
+    <li><a href="victorwork">Victor Work</a></li>
 <br><br>
 </ul>
 
 ### Websites:
 > Sites em desenvolvimento:
 <ul>
-    <li><a href="http://adoromkt.com.br/">Adoro MKT</a></li>
-    <li><a href="http://efe5.site/">Efe5 Site</a></li>
-    <li><a href="https://efe5-clothing.lojaintegrada.com.br/">Efe5 Ecommerce</a></li>
-    <li><a href="http://powerfulhair.com.br/">Powerful Hair</a></li>
     <li><a href="http://nicolebahls.com.br/">Nicole Bahls</a></li>
-    <li><a href="http://scheilacarvalho.com.br/">Scheila Carvalho</a></li>
     <li><a href="http://barbaraevansoficial.com.br/">Barbara Evans</a></li>
+    <li><a href="http://powerfulhair.com.br/">Powerful Hair</a></li>
+    <li><a href="http://www.imnutrologia.com.br">Powerful Hair</a></li>
+    <li><a href="http://ingreen.com.br/">InGreen</a></li>  
+    <li><a href="http://labelle.center/">La Belle Center</a></li>  
+    <li><a href="http://ferrazbarber.com/">Ferraz Barber</a></li>  
 </ul>
 
 ### Websites:
@@ -81,7 +87,6 @@ Conte com a gente!<br><br></p>
     <li><a href="http://isabelacrociolli.com/">Isabela Crociolli</a></li>
     <li><a href="https://www.gustavonenao.com/">Gustavo Nenão</a></li>
     <li><a href="seller">Seller Efetivos</a></li>
-    <li><a href="victorwork">Victor Work</a></li>
 </ul>
 
 ### Videos:
