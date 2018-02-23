@@ -73,7 +73,7 @@ Conte com a gente!<br><br></p>
     <li><a href="http://nicolebahls.com.br/">Nicole Bahls</a></li>
     <li><a href="http://barbaraevansoficial.com.br/">Barbara Evans</a></li>
     <li><a href="http://powerfulhair.com.br/">Powerful Hair</a></li>
-    <li><a href="http://www.imnutrologia.com.br">Powerful Hair</a></li>
+    <li><a href="http://www.imnutrologia.com.br">IM Nutrologia</a></li>
     <li><a href="http://ingreen.com.br/">InGreen</a></li>  
     <li><a href="http://labelle.center/">La Belle Center</a></li>  
     <li><a href="http://ferrazbarber.com/">Ferraz Barber</a></li>  
